@@ -1,0 +1,4 @@
+#Thu Sep 19 15:51:39 CDT 2019
+base.0=/Volumes/CODECTI/AndroidStudioProjects/send_push_notifications/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
